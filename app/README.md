@@ -10,3 +10,5 @@ Bu proje Backend ve Frontend için kullanacağımız module olarak çalışacak.
 	-Authorization and Role Management
 	-Database(Firstly MySql) Integration
 
+Şimdilik Getting Started olarak bu linkteki örnek üzerinden ilerliyoruz.
+https://realpython.com/the-ultimate-flask-front-end/
