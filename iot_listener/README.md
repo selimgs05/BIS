@@ -1,0 +1,1 @@
+Burada Internet üzerinden IOT ( Raspberry pi cihazlarımız) dinleme yapacağımız process yazılacak. Bu process security ve validation kontrollerinden sonra gelen IOT verilerini veri tabanına yazmakla yükümlü olacak.

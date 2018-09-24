@@ -1,0 +1,1 @@
+Burada Raspberry Pi üzerinde çalışacak veri besleme scripti ve konfigürasyon modülleri yazılacak. Burada öncelikli olarak One Wire hattı üzerinden verilerin alınması ve Server tarafına yollanması amaçlanacak.
