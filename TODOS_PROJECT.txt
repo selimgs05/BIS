@@ -1,0 +1,5 @@
+
+* Python flask web server'inin kurulması ve basit rest apilerin ayağa kaldırılması
+* React ile bu server'in rest apilerini çağıran önyüz tasarımına başlanması
+* Entegrasyon için BAC0 veya Bacpypes kütüphaneleri ile BACNet ağına dahil olup veri çekilip yazabilmek
+* Elasticsearch veritabanı kurulması
